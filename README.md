@@ -10,7 +10,7 @@ The .csv file of the dataset (named "dataset") is attached in this repository.
 
 There are two options to view the dashboard:\
     <ol>
-        <li>Online via https://fuel-consumption-analysis.onrender.com/ (Please give the website up to 1 minute to load)</li>
+        <li>Online via [this link](https://fuel-consumption-dashboard-phd0.onrender.com/) (Please give the website up to 1 minute to load)</li>
         <li>Locally</li>
     </ol>
 
