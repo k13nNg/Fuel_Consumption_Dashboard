@@ -9,7 +9,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 # Incorporate data
 # df = pd.read_csv('./dataset.csv')
-url = 'https://raw.githubusercontent.com/k13nNg/Fuel_Consumption_Analysis/main/src/dataset.csv'
+url='https://raw.githubusercontent.com/k13nNg/Fuel_Consumption_Dashboard/main/src/dataset.csv'
 df = pd.read_csv(url, encoding='latin1')
 
 # Initialize the app
